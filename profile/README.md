@@ -7,7 +7,12 @@
 
 ## TO-DO:
 - [ ] Add back [RP-Renames](https://modrinth.com/mod/rp-renames) for 1.21.4 when available
-
+- [ ] Add Giants
+  - [ ] Implement spawning
+  - [ ] Add AI
+- [ ] Add Smallships
+- [ ] Add Purpur Rideables
+- [ ] Fix Minecart Trains
 
 ## References
 - Server
