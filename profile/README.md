@@ -1,6 +1,4 @@
-# [Iðavöllr](https://ithavollr.github.io/)
-
-Minecraft private server organization repo :basecamp: __v1.21.4__  
+#### Current Minecraft Server: :basecamp: __v1.21.4__  
 
 ## Directory
 - [Content Packs](https://github.com/Ithavollr/PacMan)
@@ -8,7 +6,7 @@ Minecraft private server organization repo :basecamp: __v1.21.4__
 - [Website Source](https://github.com/Ithavollr/Ithavollr.github.io)
 
 ## TO-DO:
-[ ] - Add back [RP-Renames](https://modrinth.com/mod/rp-renames) for 1.21.4 when available
+- [ ] Add back [RP-Renames](https://modrinth.com/mod/rp-renames) for 1.21.4 when available
 
 
 ## References
