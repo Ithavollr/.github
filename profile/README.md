@@ -8,6 +8,7 @@
 
 ## TO-DO:
 - [ ] Add back [RP-Renames](https://modrinth.com/mod/rp-renames) for 1.21.4 when available
+- [ ] Implement [Prism](https://github.com/prism/PrismRefracted) Change Management
 - [ ] Add Giants
   - [ ] Implement spawning
   - [ ] Add AI
