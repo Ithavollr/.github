@@ -1,9 +1,10 @@
 #### Current Minecraft Server: :basecamp: __v1.21.4__  
 
 ## Directory
-- [Content Packs](https://github.com/Ithavollr/PacMan)
-- [Client Modpack](https://github.com/Ithavollr/ClientModpack)
-- [Website Source](https://github.com/Ithavollr/Ithavollr.github.io)
+- [PacMan](https://github.com/Ithavollr/PacMan): Content Packs (client resource & server data)
+- [GitHub Pages](https://github.com/Ithavollr/Ithavollr.github.io): Website Source Code
+- [ClientModpack](https://github.com/Ithavollr/ClientModpack): As it says
+
 
 ## TO-DO:
 - [ ] Add back [RP-Renames](https://modrinth.com/mod/rp-renames) for 1.21.4 when available
@@ -14,6 +15,29 @@
 - [ ] Add Purpur Rideables
 - [ ] Fix Minecart Trains
 
+## Project Workflow:
+```
+                                                                      
+               ┌──────────┐                                           
+               │ Cardinal ├───────┐                                   
+               └──────────┘       │                                   
+                                  │           ┌────────────────────┐  
+                                  │           │  Minecraft Server  │  
+                                  ├──────────►│      (Aincrad)     │  
+                                  │           └────────────────────┘  
+ ┌─────────────┐                  │                                   
+ │   PacMan    ├───┬──────────────┘                                   
+ └─────────────┘   │                                                  
+                   │                         ┌──────────────────────┐ 
+                   │   ┌──────────┐          │   Minecraft Client   │ 
+                   ├──►│ PrismPak ├─────────►│ (via Prism Launcher) │ 
+                   │   └──────────┘          └──────────────────────┘ 
+                   │                                                  
+ ┌─────────────┐   │                                                  
+ │ClientModpack├───┘                                                  
+ └─────────────┘                                                      
+                                                                      
+```
 ## References
 - Server
   + [Aincrad](https://github.com/Ifiht/Aincrad): WIP!! PaperMC fork aimed at adding new content/bug fixes.
