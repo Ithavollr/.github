@@ -15,6 +15,23 @@
 - [ ] Add Smallships
 - [ ] Add Purpur Rideables
 - [ ] Fix Minecart Trains
+- [ ] **Add back AuraSkills**
+  - [ ] Implement client-side interface
+  - [ ] Give users 3 skill points
+  - [ ] Limit to 3 active skills chosen by skill point
+  - [ ] Erase skill xp when switching skills
+  - [ ] Implement "ultimate" skill unlocks @lvl 99
+    - [ ] Agility: ???
+    - [ ] Alchemy: ???
+    - [ ] Archery: Permanent Infinity
+    - [ ] Defense: ???
+    - [ ] Enchanting: ???
+    - [ ] Excavation: ???
+    - [ ] Farming: ???
+    - [ ] Fighting: ???
+    - [ ] Fishing: ???
+    - [ ] Foraging: ???
+    - [ ] Mining: ???
 
 ## Project Workflow:
 ```
