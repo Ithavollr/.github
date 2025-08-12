@@ -14,6 +14,7 @@
   - [ ] Add AI
 - [ ] Add Smallships
 - [ ] Add Purpur Rideables
+- [ ] Add Potion of Flying
 - [ ] Implement Rose Gold
   - [ ] Smithing Template + Copper
   - [ ] Equal to Iron
@@ -24,17 +25,17 @@
   - [ ] Limit to 3 active skills chosen by skill point
   - [ ] Erase skill xp when switching skills
   - [ ] Implement "ultimate" skill unlocks @lvl 99
-    - [ ] Agility: ???
+    - [ ] Agility: Charged Jump
     - [ ] Alchemy: ???
     - [ ] Archery: Permanent Infinity
-    - [ ] Defense: ???
+    - [ ] Defense: Mana/Exp Shield
     - [ ] Enchanting: ???
-    - [ ] Excavation: ???
-    - [ ] Farming: ???
+    - [ ] Excavation: Terraform
+    - [ ] Farming: Instant Plant Growth
     - [ ] Fighting: ???
     - [ ] Fishing: ???
     - [ ] Foraging: ???
-    - [ ] Mining: ???
+    - [ ] Mining: Speed Mining
 
 ## Project Workflow:
 ```
