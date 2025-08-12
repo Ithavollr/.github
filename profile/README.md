@@ -7,18 +7,9 @@
 
 
 ## TO-DO:
+See the [Dev Board](https://github.com/orgs/Ithavollr/projects/1/views/1)
 - [ ] Add back [RP-Renames](https://modrinth.com/mod/rp-renames) for 1.21.4 when available
-- [ ] Implement [Prism](https://github.com/prism/PrismRefracted) Change Management
-- [ ] Add Giants
-  - [ ] Implement spawning
-  - [ ] Add AI
-- [ ] Add Smallships
-- [ ] Add Purpur Rideables
 - [ ] Add Potion of Flying
-- [ ] Implement Rose Gold
-  - [ ] Smithing Template + Copper
-  - [ ] Equal to Iron
-- [ ] Fix Minecart Trains
 - [ ] **Add back AuraSkills**
   - [ ] Implement client-side interface
   - [ ] Give users 3 skill points
