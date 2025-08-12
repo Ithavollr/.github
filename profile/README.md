@@ -26,14 +26,14 @@
   - [ ] Erase skill xp when switching skills
   - [ ] Implement "ultimate" skill unlocks @lvl 99
     - [ ] Agility: Charged Jump
-    - [ ] Alchemy: ???
+    - [ ] Alchemy: Philosopher's stone - base health & hunger regen?
     - [ ] Archery: Permanent Infinity
     - [ ] Defense: Mana/Exp Shield
     - [ ] Enchanting: ???
     - [ ] Excavation: Terraform
     - [ ] Farming: Instant Plant Growth
     - [ ] Fighting: ???
-    - [ ] Fishing: ???
+    - [ ] Fishing: Water Breathing
     - [ ] Foraging: ???
     - [ ] Mining: Speed Mining
 
