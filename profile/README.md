@@ -14,6 +14,9 @@
   - [ ] Add AI
 - [ ] Add Smallships
 - [ ] Add Purpur Rideables
+- [ ] Implement Rose Gold
+  - [ ] Smithing Template + Copper
+  - [ ] Equal to Iron
 - [ ] Fix Minecart Trains
 - [ ] **Add back AuraSkills**
   - [ ] Implement client-side interface
