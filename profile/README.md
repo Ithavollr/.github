@@ -25,7 +25,7 @@ See the [Dev Board](https://github.com/orgs/Ithavollr/projects/1/views/1)
     - [ ] Farming: Instant Plant Growth
     - [ ] Fighting: ???
     - [ ] Fishing: Water Breathing
-    - [ ] Foraging: ???
+    - [ ] Foraging: "Friend of the Forest" - all mobs neutral while active
     - [ ] Mining: Speed Mining
 
 ## Project Workflow:
