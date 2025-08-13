@@ -17,7 +17,7 @@ See the [Dev Board](https://github.com/orgs/Ithavollr/projects/1/views/1)
   - [ ] Erase skill xp when switching skills
   - [ ] Implement "ultimate" skill unlocks @lvl 99
     - [ ] Agility: Charged Jump
-    - [ ] Alchemy: Philosopher's stone - base health & hunger regen?
+    - [ ] Alchemy: Philosopher's stone - XP regen
     - [ ] Archery: Permanent Infinity
     - [ ] Defense: Mana/Exp Shield
     - [ ] Enchanting: ???
