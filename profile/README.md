@@ -64,18 +64,13 @@ See the [Dev Board](https://github.com/orgs/Ithavollr/projects/1/views/1)
                                                                       
 ```
 ## References
-- Server
-  + [Aincrad](https://github.com/Ifiht/Aincrad): WIP!! PaperMC fork aimed at adding new content/bug fixes.
 - Tools
   + [unsup](https://git.sleeping.town/unascribed/unsup): Handles synchronization of all client environments.
   + [packwiz](https://packwiz.infra.link/tutorials/creating/adding-mods/): Organize and update client modifications. Syncs via unsup.
 - Shader packs
   + [Complementary](https://modrinth.com/shader/complementary-reimagined): Best shader pack out there.
   + [Euphoria](https://modrinth.com/mod/euphoria-patches): Adds useful options to Complementary.
-- Data packs
-  + see [PacMan](https://github.com/Ifiht/PacMan): Merges all data packs into one monolithic pack for the server.
-- Resource packs
-  + see [PacMan](https://github.com/Ifiht/PacMan): Merges all resource packs into one monolithic pack for the client.
-- Plugins
-  + [Cardinal](https://github.com/Ifiht/Cardinal): Master plugin for Ithavollr. All other plugins are organized under its hierarchy.
+- Resource packs:
+  + [Roundista](https://modrinth.com/resourcepack/roundista): Best resource pack for upgrading the look & feel of vanilly game textures.
+
 
