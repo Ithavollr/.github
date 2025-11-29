@@ -1,9 +1,21 @@
 #### Current Minecraft Server: :basecamp: __v1.21.4__  
 
-## Directory
-- [PacMan](https://github.com/Ithavollr/PacMan): Content Packs (client resource & server data)
-- [GitHub Pages](https://github.com/Ithavollr/Ithavollr.github.io): Website Source Code
-- [ClientModpack](https://github.com/Ithavollr/ClientModpack): As it says
+## Project Overview
+- [Aincrad Server](https://github.com/Ithavollr/Aincrad)
+  - **Description**: Content Packs (client resource & server data)
+- [Cardinal Plugin](https://github.com/Ithavollr/Cardinal)
+  - **Description**: Server management plugin, handles world-specific things that should not go into NMS
+  - **Workflows**: ![JUnit Tests](https://github.com/Ifiht/Cardinal/actions/workflows/gradle.yml/badge.svg)
+- [Yui Mod](https://github.com/Ithavollr/Yui)
+  - **Description**: Client mod (Fabric) needed to sync changes to NMS on the backend
+  - **Workflows**: ![Build](https://github.com/Ithavollr/Yui/actions/workflows/gradle.yml/badge.svg)
+- [PacMan](https://github.com/Ithavollr/PacMan)
+  - **Description**: Content pack auto-generator (client resource pack & server data pack)
+  - **Workflows**: ![Package](https://github.com/Ithavollr/PacMan/actions/workflows/makefile.yml/badge.svg) ![Package](https://github.com/Ithavollr/PacMan/actions/workflows/runserver.yml/badge.svg)
+- [GitHub Pages](https://github.com/Ithavollr/Ithavollr.github.io): 
+  - **Description**: Website Source Code
+- [ClientModpack](https://github.com/Ithavollr/ClientModpack)
+  - **Description**: Bundled auto-updating client modpack managed by unsup
 
 
 ## TO-DO:
