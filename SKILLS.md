@@ -15,7 +15,7 @@ The alchemy skill gives bonuses to potion brewing and consumption
 2. Brewer: Increases lingering potion duration
 3. Life Steal: Heals based on mob max health when killing mobs
 4. Golden Heart: Reduces damage taken when you have absorption
-5. Wise Effect: Grants wisdom per active potion effect
+5. ❌ Wise Effect: Grants wisdom per active potion effect
 
 ## 🏹 Archery
 The archery skill gives bonuses to bow and arrow usage
@@ -41,7 +41,7 @@ The enchanting skill gives bonuses to enchanting and anvil usage
 1. XP Convert: Converts vanilla XP to skill XP
 2. Enchanter: Increases enchanting XP gain
 3. Anvil Master: Reduces max repair cost on anvils
-4. Enchanted Strength: Grants strength per enchantment on held item
+4. ❌ Enchanted Strength: Grants strength per enchantment on held item
 5. Lucky Table: Chance for higher enchantment levels
 
 ## 🪏 Excavation
