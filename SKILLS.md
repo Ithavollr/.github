@@ -1,6 +1,7 @@
-//==============={ AgilityManager }===============//
-// The agility skill gives bonuses to movement related game effects and actions
-//------{ Abilities }------//
+# Aincrad Skills System
+##AgilityManager
+The agility skill gives bonuses to movement related game effects and actions
+### Abilities }------//
 // 1: Light Fall: Reduces fall damage
 // 2: Jumper: Increases jump height
 // 3: Sugar Rush: Increases duration of any potions drunk
