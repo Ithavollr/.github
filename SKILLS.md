@@ -1,5 +1,5 @@
 # Aincrad Skills System
-## Agility
+## 🦿 Agility
 The agility skill gives bonuses to movement related game effects and actions
 ### Abilities
 1. Light Fall: Reduces fall damage
@@ -8,7 +8,7 @@ The agility skill gives bonuses to movement related game effects and actions
 4. Fleeting: Increases movement speed when below a certain health percentage
 5. Meal Steal: Steals hunger from players
 
-## Alchemy
+## ⚗️ Alchemy
 The alchemy skill gives bonuses to potion brewing and consumption
 ### Abilities
 1. Alchemist: Increases potion duration
@@ -17,7 +17,7 @@ The alchemy skill gives bonuses to potion brewing and consumption
 4. Golden Heart: Reduces damage taken when you have absorption
 5. Wise Effect: Grants wisdom per active potion effect
 
-## Archery
+## 🏹 Archery
 The archery skill gives bonuses to bow and arrow usage
 ### Abilities
 1. Retrieval: Increases arrow retrieval range
@@ -26,7 +26,7 @@ The archery skill gives bonuses to bow and arrow usage
 4. Piercing: Chance for arrows to pierce through targets
 5. Stun: Chance to stun targets with arrows
 
-## Defense
+## 🛡️ Defense
 The defense skill gives bonuses to damage reduction and survivability
 ### Abilities
 1. Shielding: Reduces all damage taken
@@ -35,7 +35,7 @@ The defense skill gives bonuses to damage reduction and survivability
 4. Immunity: Chance to dodge attacks completely
 5. No Debuff: Chance to resist negative potion effects
 
-## Enchanting
+## 🔮 Enchanting
 The enchanting skill gives bonuses to enchanting and anvil usage
 ### Abilities
 1. XP Convert: Converts vanilla XP to skill XP
@@ -44,7 +44,7 @@ The enchanting skill gives bonuses to enchanting and anvil usage
 4. Enchanted Strength: Grants strength per enchantment on held item
 5. Lucky Table: Chance for higher enchantment levels
 
-## Excavation
+## 🪏 Excavation
 The excavation skill gives bonuses to digging with shovels
 ### Abilities
 1. Bigger Scoop: Chance for double drops when digging
@@ -53,7 +53,7 @@ The excavation skill gives bonuses to digging with shovels
 4. Metal Detector: Chance to find treasure when digging
 5. Lucky Spades: Chance for triple drops when digging
 
-## Farming
+## 🌾 Farming
 The farming skill gives bonuses to crop harvesting and growth
 ### Abilities
 1. Bountiful Harvest: Chance for double drops when harvesting
@@ -62,7 +62,7 @@ The farming skill gives bonuses to crop harvesting and growth
 4. Geneticist: Chance for extra seeds when harvesting
 5. Growth Aura: Boosts crop growth speed in a radius around the player
 
-## Fighting
+## 🗡️ Fighting
 The fighting skill gives bonuses to melee combat
 ### Abilities
 1. Parry: Reduces damage taken within a short time window
@@ -71,7 +71,7 @@ The fighting skill gives bonuses to melee combat
 4. First Strike: Bonus damage on first hit with cooldown
 5. Bleed: Chance to apply bleeding damage over time
 
-## Fishing
+## 🐟 Fishing
 The fishing skill gives bonuses to fishing and treasure hunting
 ### Abilities
 1. Lucky Catch: Chance for extra drops when fishing
@@ -80,7 +80,7 @@ The fishing skill gives bonuses to fishing and treasure hunting
 4. Grappler: Increases hook pull strength
 5. Epic Catch: Chance to catch epic loot
 
-## Foraging
+## 🪓 Foraging
 The foraging skill gives bonuses to woodcutting and axe usage
 ### Abilities
 1. Lumberjack: Chance for double drops when chopping wood
@@ -89,7 +89,7 @@ The foraging skill gives bonuses to woodcutting and axe usage
 4. Valor: Reduces damage taken while holding an axe
 5. Shredder: Chance to negate axe durability damage
 
-## Mining
+## ⛏️ Mining
 The mining skill gives bonuses to mining with pickaxes
 ### Abilities
 1. Lucky Miner: Chance for double drops when mining
