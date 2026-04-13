@@ -13,7 +13,7 @@ The alchemy skill gives bonuses to potions, revolves around generation of vanill
 ### Abilities
 1. Brewer: Increases drunk potion duration [modified]
 2. Life Steal: Heals based on mob max health when killing mobs [modified]
-3. Soul Steal: Steals xp from players and lootable entities [modified]
+3. Potions Master: Inherent poison resistance [modified]
 4. Grenadier: Increases splash potion duration [modified]
 5. Grand Sage: Passive vanilla xp generation [modified]
 
@@ -39,10 +39,10 @@ The defense skill gives bonuses to damage reduction and survivability
 The enchanting skill gives bonuses to enchanting, revolves around consumption of vanilla XP
 ### Abilities
 1. XP Convert: Converts half vanilla XP to skill XP [modified]
-2. XP Dropper: Passively drops XP at regular intervals [modified]
-3. Anvil Master: Reduces max repair cost on anvils
+2. Anvil Master: Reduces max repair cost on anvils [modified]
+3. Obsidian Skin: Inherent fire protection [modified]
 4. Lucky Table: Chance for higher enchantment levels [modified]
-5. 
+5. XP Dropper: Passively drops XP at regular intervals [modified]
 
 ## 🪏 Excavation
 The excavation skill gives bonuses to digging with shovels
