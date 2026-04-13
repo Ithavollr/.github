@@ -77,8 +77,8 @@ The fishing skill gives bonuses to fishing and treasure hunting
 1. Lucky Catch: Chance for extra drops when fishing
 2. Fisher: Gives half vanilla xp per skill xp earned [modified]
 3. Treasure Hunter: Chance to catch rare loot
-4. Grappler: Increases hook pull strength
-5. Epic Catch: Chance to catch epic loot
+4. Epic Catch: Chance to catch epic loot [modified]
+5. Grappler: Increases hook pull strength [modified]
 
 ## 🪓 Foraging
 The foraging skill gives bonuses to woodcutting and axe usage
@@ -96,4 +96,4 @@ The mining skill gives bonuses to mining with pickaxes
 2. Miner: Gives half vanilla xp per skill xp earned [modified]
 3. Pick Master: Increases pickaxe damage
 4. Stamina: Chance to restore hunger when mining
-5. Hardened Armor: Chance to negate armor durability damage
+5. Armor of Stones: Chance to negate armor durability damage [modified]
