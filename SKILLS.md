@@ -2,7 +2,7 @@
 ## 🦿 Agility
 The agility skill gives bonuses to movement related game effects and actions
 ### Abilities
-1. Light Fall: Reduces fall damage
+1. Feather Fall: Reduces fall damage
 2. Runner: Gives half vanilla xp per skill xp earned [modified]
 3. Jumper: Increases jump height
 4. Fleeting: Increases movement speed when below a certain health percentage
@@ -13,8 +13,8 @@ The alchemy skill gives bonuses to potions, revolves around generation of vanill
 ### Abilities
 1. Brewer: Increases drunk potion duration [modified]
 2. Life Steal: Heals based on mob max health when killing mobs [modified]
-3. Potions Master: Inherent poison resistance [modified]
-4. Grenadier: Increases splash potion duration [modified]
+3. Grenadier: Increases splash potion duration [modified] 
+4. Potions Master: Inherent poison resistance [modified]
 5. Grand Sage: Passive vanilla xp generation [modified]
 
 ## 🏹 Archery
@@ -40,8 +40,8 @@ The enchanting skill gives bonuses to enchanting, revolves around consumption of
 ### Abilities
 1. XP Convert: Converts half vanilla XP to skill XP [modified]
 2. Anvil Master: Reduces max repair cost on anvils [modified]
-3. Obsidian Skin: Inherent fire protection [modified]
-4. Lucky Table: Chance for higher enchantment levels [modified]
+3. Lucky Table: Chance for higher enchantment levels [modified]
+4. Obsidian Skin: Inherent fire protection [modified]
 5. XP Dropper: Passively drops XP at regular intervals [modified]
 
 ## 🪏 Excavation
