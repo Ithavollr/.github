@@ -38,11 +38,11 @@ The defense skill gives bonuses to damage reduction and survivability
 ## 🔮 Enchanting
 The enchanting skill gives bonuses to enchanting, revolves around consumption of vanilla XP
 ### Abilities
-1. XP Convert: Converts half vanilla XP to skill XP [modified]
+1. XP Boost: Gives bonus Enchanting skill XP [modified]
 2. Anvil Master: Reduces max repair cost on anvils [modified]
 3. Lucky Table: Chance for higher enchantment levels [modified]
 4. Obsidian Skin: Inherent fire protection [modified]
-5. XP Dropper: Passively drops XP at regular intervals [modified]
+5. XP Share: Shares skill xp between all active skills. Affected by XP Boost [modified]
 
 ## 🪏 Excavation
 The excavation skill gives bonuses to digging with shovels
@@ -87,7 +87,7 @@ The foraging skill gives bonuses to woodcutting and axe usage
 2. 🌲 Forager: Gives half vanilla xp per skill xp earned [modified]
 3. 🪓 Axe Master: Increases axe damage
 4. 🎖️ Valor: Reduces damage taken while holding an axe
-5. Shredder: Chance to negate axe durability damage
+5. 🪚 Shredder: Chance to negate axe durability damage
 
 ## ⛏️ Mining
 The mining skill gives bonuses to mining with pickaxes
